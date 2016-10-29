@@ -1,0 +1,14 @@
+co\com\cct\requerimientos\exceptions\Exception.class
+co\com\cct\requerimientos\repositories\oracle\Operation.class
+co\com\cct\requerimientos\repositories\oracle\Persistency.class
+co\com\cct\requerimientos\repositories\mongo\entities\SLA.class
+co\com\cct\requerimientos\repositories\mongo\entities\Requerimiento.class
+co\com\cct\requerimientos\health\RegistrarHealthCheck.class
+co\com\cct\requerimientos\services\RegistrarResponse.class
+co\com\cct\requerimientos\repositories\mongo\operations\CRUD.class
+co\com\cct\requerimientos\services\Requerimientos.class
+co\com\cct\requerimientos\MicroServicioRequerimientosConfig.class
+co\com\cct\requerimientos\repositories\oracle\entities\Insert.class
+co\com\cct\requerimientos\repositories\mongo\operations\CriterioBusqueda.class
+co\com\cct\requerimientos\repositories\mongo\entities\Vendedor.class
+co\com\cct\requerimientos\MicroServicioRequerimientosApplication.class
